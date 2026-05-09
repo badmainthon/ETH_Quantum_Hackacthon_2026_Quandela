@@ -1,3 +1,4 @@
 # Ignore generated images
 pdf_images/
 README_KIMI.md
+kimi_output/

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="445.0" height="343.75" viewBox="-28.0 0 356.0 275.0">
+<defs>
+</defs>
+<path d="M10,25.0 L25,25.0" stroke-width="3" stroke="darkred" stroke-linejoin="miter" fill="none" />
+<path d="M10,75.0 L25,75.0" stroke-width="3" stroke="darkred" stroke-linejoin="miter" fill="none" />
+<path d="M10,125.0 L25,125.0" stroke-width="3" stroke="darkred" stroke-linejoin="miter" fill="none" />
+<path d="M10,175.0 L25,175.0" stroke-width="3" stroke="darkred" stroke-linejoin="miter" fill="none" />
+<path d="M10,225.0 L25,225.0" stroke-width="3" stroke="darkred" stroke-linejoin="miter" fill="none" />
+<path d="M25,25 L125,25" stroke="darkred" stroke-width="3" fill="none" />
+<path d="M25,75 L125,75" stroke="darkred" stroke-width="3" fill="none" />
+<path d="M25,125 L125,125" stroke="darkred" stroke-width="3" fill="none" />
+<path d="M25,175 L125,175" stroke="darkred" stroke-width="3" fill="none" />
+<path d="M25,225 L125,225" stroke="darkred" stroke-width="3" fill="none" />
+<path d="M27.5,2.5 L122.5,2.5 L122.5,247.5 L27.5,247.5 Z" stroke="darkred" fill="lightpink" stroke-linejoin="miter" />
+<text x="35" y="16" font-size="8" text-anchor="start" font-weight="bold">CPLX</text>
+<path d="M125,25 L175,25" stroke="darkred" stroke-width="3" fill="none" />
+<path d="M130,40 L139,40 L153,10 L144,10 L130,40 L139,40 Z" stroke="black" fill="gray" stroke-linejoin="miter" />
+<text x="147" y="38" font-size="7" text-anchor="start">Φ=input1</text>
+<path d="M125,75 L175,75" stroke="darkred" stroke-width="3" fill="none" />
+<path d="M130,90 L139,90 L153,60 L144,60 L130,90 L139,90 Z" stroke="black" fill="gray" stroke-linejoin="miter" />
+<text x="147" y="88" font-size="7" text-anchor="start">Φ=input2</text>
+<path d="M125,125 L175,125" stroke="darkred" stroke-width="3" fill="none" />
+<path d="M130,140 L139,140 L153,110 L144,110 L130,140 L139,140 Z" stroke="black" fill="gray" stroke-linejoin="miter" />
+<text x="147" y="138" font-size="7" text-anchor="start">Φ=input3</text>
+<path d="M125,175 L175,175" stroke="darkred" stroke-width="3" fill="none" />
+<path d="M130,190 L139,190 L153,160 L144,160 L130,190 L139,190 Z" stroke="black" fill="gray" stroke-linejoin="miter" />
+<text x="147" y="188" font-size="7" text-anchor="start">Φ=input4</text>
+<path d="M125,225.0 L175,225.0" stroke="darkred" stroke-width="3" fill="none" />
+<path d="M175,25 L275,25" stroke="darkred" stroke-width="3" fill="none" />
+<path d="M175,75 L275,75" stroke="darkred" stroke-width="3" fill="none" />
+<path d="M175,125 L275,125" stroke="darkred" stroke-width="3" fill="none" />
+<path d="M175,175 L275,175" stroke="darkred" stroke-width="3" fill="none" />
+<path d="M175,225 L275,225" stroke="darkred" stroke-width="3" fill="none" />
+<path d="M177.5,2.5 L272.5,2.5 L272.5,247.5 L177.5,247.5 Z" stroke="darkred" fill="lightpink" stroke-linejoin="miter" />
+<text x="185" y="16" font-size="8" text-anchor="start" font-weight="bold">CPLX</text>
+<path d="M275,25.0 L290,25.0" stroke-width="3" stroke="darkred" stroke-linejoin="miter" fill="none" />
+<path d="M275,75.0 L290,75.0" stroke-width="3" stroke="darkred" stroke-linejoin="miter" fill="none" />
+<path d="M275,125.0 L290,125.0" stroke-width="3" stroke="darkred" stroke-linejoin="miter" fill="none" />
+<path d="M275,175.0 L290,175.0" stroke-width="3" stroke="darkred" stroke-linejoin="miter" fill="none" />
+<path d="M275,225.0 L290,225.0" stroke-width="3" stroke="darkred" stroke-linejoin="miter" fill="none" />
+<text x="300" y="28.0" font-size="6" text-anchor="end">0</text>
+<text x="300" y="78.0" font-size="6" text-anchor="end">1</text>
+<text x="300" y="128.0" font-size="6" text-anchor="end">2</text>
+<text x="300" y="178.0" font-size="6" text-anchor="end">3</text>
+<text x="300" y="228.0" font-size="6" text-anchor="end">4</text>
+<text x="0" y="28.0" font-size="6" text-anchor="start">0</text>
+<text x="0" y="78.0" font-size="6" text-anchor="start">1</text>
+<text x="0" y="128.0" font-size="6" text-anchor="start">2</text>
+<text x="0" y="178.0" font-size="6" text-anchor="start">3</text>
+<text x="0" y="228.0" font-size="6" text-anchor="start">4</text>
+</svg>
