@@ -1,0 +1,9 @@
+Question,Method,Evidence,Verdict
+Does mode mixing matter?,No-mixing retrained ablation,RMSE degraded by 102.8% without beam splitters,Supported
+Does training the quantum layer matter?,Frozen quantum + retrained readout,Frozen RMSE 4.1440e-02 vs baseline 4.8617e-02,Not supported
+Do learned optical phases matter?,Phase randomization after training,Randomized-phase RMSE 1.7639e-01 vs baseline 4.8617e-02,Supported
+Does multiphoton interference matter?,Distinguishability sweep,Not implemented in this pass,Unsupported by current API/runtime
+Does photon number matter?,Photon sweep,RMSE 4.8617e-02 vs 4.8617e-02,Not supported
+Does increasing depth help?,Depth sweep,RMSE improved from 4.6009e-02 to 3.5991e-02,Supported
+Does classical simulation cost grow with modes/photons/depth?,Scaling sweeps,Forward time correlates with Fock dim (r=0.54),Supported
+Is the current model plausibly quantum meaningful?,Aggregate assessment,4/7 ablations show quantum-resource sensitivity. Quantum advantage: not claimed.,Supported
